@@ -1,0 +1,269 @@
+﻿/*----------------------------------------------------
+CssOwner - Saifee Healthcare
+Date: 11/03/2012
+------------------------------------------------------*/
+.container
+{
+    width: 20.7cm;
+    height: auto;
+    background-color: Transparent;
+    font-family: Bookman Old Style;
+    font-size: 15px;
+    color: Black;
+}
+
+.head
+{
+    float: left;
+    background-color: Transparent;
+    width: 20.7cm;
+    padding-bottom: 5px;
+}
+
+.mainhead
+{
+    width: 600px;
+    text-align: left;
+    font-size: 16px;
+    padding-bottom: 5px;
+    font-family: Bookman Old Style;
+    padding-top:5px;
+}
+
+.logo
+{
+    float: left;
+    width: 150px;
+    padding-top: 20px;
+}
+.righthead
+{
+    float: right;
+    width: 600px;
+    margin-top: 20px;
+}
+.righthead label
+{
+    margin-right: 10px;
+    padding-right: 4px;
+    width: 150px;
+    display: block;
+    float: left;
+    text-align: right;
+    position: relative;
+}
+.divb
+{
+    float: left;
+    width: 110px;
+    text-align: right;
+    padding-right: 5px;
+    height:22px;
+}
+.righthead span
+{
+    margin-top: 0px;
+    padding: 0px;
+    width: 180px;
+    display: block;
+    float: right;
+    text-align: left;
+    height:22px;
+}
+.headcol1
+{
+    width: 300px;
+    float: left;
+}
+.headcol2
+{
+    width: 300px;
+    float: right;
+}
+.middlebody
+{
+    float: left;
+    width: 20.7cm;
+    height: auto;
+    /*border-color: #000;
+    border-style: solid;
+    border-width: 1px;*/
+}
+.midcol1
+{
+    width: 100px;
+    float: left;
+}
+.b
+{
+    text-align: left;
+    float: left;
+    width: 100px;
+}
+.midcol2
+{
+    width: 552px;
+    float: left;
+}
+.midcol3
+{
+    width: 150px;
+    float: left;
+}
+.testid
+{
+    padding-left: 3px;
+    float: left;
+}
+.testnames
+{
+    padding-left: 5px;
+}
+.totamount
+{
+    padding-left: 5px;
+}
+.clear
+{
+    clear: both;
+    font-size: 0;
+    height: 0;
+    line-height: 0;
+    width: 0;
+}
+
+.lowerbody
+{
+    width: 20.9cm;
+    float: left;
+    height: auto;
+}
+
+.lowerbody span
+{
+    margin-top: 0px;
+    padding: 0px;
+    width: 250px;
+    display: block;
+    float: right;
+    text-align: left;
+}
+
+.lowerbodyreport
+{
+    width: 20.7cm;
+    float: left;
+    height: auto;
+    /*border-color: Blue;
+    border-style: solid;
+    border-width: 1px;*/
+}
+
+.lowerbodyreport span
+{
+    margin-top: 8px;
+    padding: 5px 10px 5px 10px;
+    width: 100%;
+    display: block;
+    float: left;
+    text-align: left;
+}
+
+.divamount
+{
+    float: right;
+    width: 100%;
+    text-align: left;
+    padding-right: 5px;
+}
+
+.loweramount
+{
+    width: 20.9cm;
+    float:left;
+}
+
+.loweramount td
+{
+    width: auto;
+    text-align: left;
+    border-style: none;
+}
+
+.lowerleft
+{
+    width: 421px;
+    float: left;
+}
+.lowerright
+{
+    width: 421px;
+    float: left;
+}
+
+.fotcol1
+{
+    width: 100%;
+    float: left;
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.fotcol2
+{
+    width: 300px;
+    float: right;
+    text-align: left;
+    padding-left: 25px;
+    padding-top: 15px;
+}
+
+.footaddress
+{
+    width: 752px;
+    float: left;
+    text-align: left;
+    padding-left: 5px;
+    padding-top: 10px;
+    padding-bottom:10px;
+}
+
+.btndiv
+{
+    width: 20.7cm;
+    height: auto;
+    background-color: Transparent;
+    font-family: Bookman Old Style;
+    font-size: 15px;
+    color: Black;
+}
+
+.btn
+{
+    margin-top: 15px;
+    display: inline-block;
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.btn-primary
+{
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
